@@ -3,4 +3,10 @@ Analog pins A0-A3 button functions for selecting chord modes (Maj, Min, Maj7, Mi
 PWM output pin 10
 A6 and A7 for joystick control of PB and Mod
 
----------------------------------------------------will update as I build and test the device below this line ---------------------------------------------------------
+-------------------------------will update as I build and test the device below this line ---------------------------------
+
+currently thinking of:::
+---individual output, keybed matrix/multiplexer
+---more analog control
+---analog wave shaping and filters
+---Mozzi in built VCA (Rate control via analog pin)
